@@ -1,6 +1,6 @@
 # Chess-clock
 
-MY task while taking --System modeling-- course in my university was to design a chess clock based on the specification that is in **en** file above.
+MY task while taking __System modeling__ course in my university was to design a chess clock based on the specification that is in **en.pdf** file above.
 
 ## The chess clock
 
