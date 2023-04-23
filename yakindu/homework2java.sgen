@@ -1,0 +1,14 @@
+GeneratorModel for yakindu::java {
+
+	statechart ChessClock {
+
+		feature Outlet {
+			targetProject = "hu.bme.mit.inf.symod.fa048.homework"
+			targetFolder = "yakindu"
+			apiTargetFolder = "yakindu"
+		}
+		feature GeneralFeatures{
+			TimerService = true
+		}
+	}
+}
